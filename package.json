@@ -2,7 +2,7 @@
   "name": "gatsby-starter-casper",
   "description": "GatsbyJS starter that themed with the Casper theme from Ghost.",
   "version": "1.0.7",
-  "author": "Hays Clark <hays.clark@gmail.com>",
+  "author": "Danklut <aomcloudenterprise@outlook.com>",
   "dependencies": {
     "babel-eslint": "^10.0.1",
     "classnames": "^2.2.6",
